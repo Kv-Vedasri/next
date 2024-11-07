@@ -24,7 +24,8 @@ const Hero = () => {
       {/**Magic Button */}
       <MagicButton 
        title='Magic Show'
-       position='right'/>
+       position='right'
+       icon=''/>
     </div>
   </div>
 </section>
